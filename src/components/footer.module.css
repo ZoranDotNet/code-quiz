@@ -1,0 +1,22 @@
+.container {
+	display: flex;
+	max-width: 450px;
+	margin: 0 auto;
+}
+
+.btn {
+	background-color: #222429;
+	color: #fff;
+	padding: 0.8rem 1rem;
+	border-radius: 10px;
+	border: none;
+	font-weight: bold;
+	font-size: 1rem;
+	margin-top: 2rem;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+.btn:hover {
+	border: 1px solid white;
+}

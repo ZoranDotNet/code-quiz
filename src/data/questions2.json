@@ -1,0 +1,109 @@
+{
+	"questions": [
+		{
+			"question": "Which of the following is not a primitive data type in JavaScript?",
+			"options": ["String", "Number", "Boolean", "Array"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "What keyword is used to declare a variable in JavaScript?",
+			"options": ["var", "let", "const", "All of the above"],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "What is the result of '2' + 2 in JavaScript?",
+			"options": ["22", "4", "NaN", "Syntax Error"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which of the following methods is used to access HTML elements using JavaScript?",
+			"options": [
+				"getElementById",
+				"querySelector",
+				"getElementsByClassName",
+				"All of the above"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Which symbol is used for comments in JavaScript?",
+			"options": ["//", "#", "<!-- -->", "/* */"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which of the following is not a JavaScript framework?",
+			"options": ["React", "Angular", "Django", "Vue"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "How can you convert a string into a number in JavaScript?",
+			"options": ["parseInt()", "Number()", "Both A and B", "String()"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "What will the following code output: console.log(typeof NaN)?",
+			"options": ["'number'", "'NaN'", "'undefined'", "'object'"],
+			"correctOption": 0,
+			"points": 20
+		},
+		{
+			"question": "Which method is used to add an element to the end of an array?",
+			"options": ["push()", "pop()", "shift()", "unshift()"],
+			"correctOption": 0,
+			"points": 20
+		},
+		{
+			"question": "What does 'use strict' do in JavaScript?",
+			"options": [
+				"Enables strict mode",
+				"Allows for usage of deprecated features",
+				"Automatically optimizes code for better performance",
+				"Turns off strict mode"
+			],
+			"correctOption": 0,
+			"points": 30
+		},
+		{
+			"question": "Which statement is used to stop a loop in JavaScript?",
+			"options": ["stop", "end", "break", "exit"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "What is the output of the following code? console.log(0.1 + 0.2 === 0.3)",
+			"options": ["true", "false", "undefined", "TypeError"],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Which operator checks for both value and type equality in JavaScript?",
+			"options": ["==", "===", "!=", "!=="],
+			"correctOption": 1,
+			"points": 30
+		},
+		{
+			"question": "JavaScript is a ________-side programming language.",
+			"options": ["Client", "Server", "Both", "None"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "What does the array method map() do?",
+			"options": [
+				"Changes the original array",
+				"Iterates over an array and returns a new array",
+				"Filters elements from an array",
+				"Sorts elements in an array"
+			],
+			"correctOption": 1,
+			"points": 20
+		}
+	]
+}

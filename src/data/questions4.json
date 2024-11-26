@@ -1,0 +1,129 @@
+{
+	"questions": [
+		{
+			"question": "What does CSS stand for?",
+			"options": [
+				"Cascading Style Sheets",
+				"Colorful Style Sheets",
+				"Computer Style Sheets",
+				"Creative Style Sheets"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which CSS property is used to change the text color of an element?",
+			"options": ["font-color", "text-color", "color", "background-color"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Which is the correct CSS syntax?",
+			"options": [
+				"body:color=black;",
+				"{body:color=black;}",
+				"body {color: black;}",
+				"{body;color:black;}"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "How do you select an element with the id 'header' in CSS?",
+			"options": ["#header", ".header", "header", "*header"],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which property is used to change the background color in CSS?",
+			"options": ["color", "bgcolor", "background-color", "background"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "How do you make text bold in CSS?",
+			"options": [
+				"font-weight: bold;",
+				"text-decoration: bold;",
+				"font-style: bold;",
+				"text-weight: bold;"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which CSS property controls the space between elements?",
+			"options": ["padding", "spacing", "margin", "border-spacing"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "How do you select all paragraph elements in CSS?",
+			"options": ["*p", "p", ".p", "#p"],
+			"correctOption": 1,
+			"points": 20
+		},
+		{
+			"question": "What is the default value of the 'position' property in CSS?",
+			"options": ["absolute", "relative", "fixed", "static"],
+			"correctOption": 3,
+			"points": 20
+		},
+		{
+			"question": "Which property is used to make a rounded corner in CSS?",
+			"options": [
+				"border-radius",
+				"corner-radius",
+				"border-round",
+				"round-corner"
+			],
+			"correctOption": 0,
+			"points": 30
+		},
+		{
+			"question": "How do you add a shadow to a text in CSS?",
+			"options": [
+				"text-shadow: 2px 2px;",
+				"font-shadow: 2px 2px;",
+				"text-decoration: shadow;",
+				"shadow-text: 2px 2px;"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Which CSS property is used to change the font of an element?",
+			"options": ["font-weight", "font-style", "font-family", "font-type"],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "How do you make an element invisible in CSS?",
+			"options": [
+				"visibility: hidden;",
+				"display: none;",
+				"Both A and B",
+				"opacity: 0;"
+			],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "Which property is used to change the spacing between letters in CSS?",
+			"options": ["spacing", "letter-spacing", "text-spacing", "font-spacing"],
+			"correctOption": 1,
+			"points": 20
+		},
+		{
+			"question": "How do you center a block element horizontally with CSS?",
+			"options": [
+				"text-align: center;",
+				"margin-left: auto; margin-right: auto;",
+				"float: center;",
+				"display: center;"
+			],
+			"correctOption": 1,
+			"points": 20
+		}
+	]
+}

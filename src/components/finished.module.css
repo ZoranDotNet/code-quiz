@@ -1,0 +1,32 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 2rem;
+	margin-top: 100px;
+}
+
+.finished {
+	min-width: 350px;
+	padding: 0.7rem 1.2rem;
+	border-radius: 25px;
+	background-color: rgb(8, 202, 186);
+	text-align: center;
+	font-size: 1.7rem;
+}
+
+.btn {
+	background-color: #222429;
+	color: #fff;
+	padding: 0.8rem 1rem;
+	border-radius: 10px;
+	border: none;
+	font-weight: bold;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.btn:hover {
+	scale: 1.2;
+}

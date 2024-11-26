@@ -1,0 +1,46 @@
+.wrapper {
+	width: 350px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
+
+.progress {
+	height: 10px;
+	text-align: center;
+	/* padding: 0.3rem; */
+	transition: all 0.3s;
+	background-color: green;
+	border-radius: 15px;
+	font-size: 12px;
+}
+
+.end {
+	background-color: red;
+}
+
+.timeUp {
+	margin-top: 6rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.btn {
+	background-color: #222429;
+	color: #fff;
+	padding: 0.8rem 1rem;
+	border-radius: 10px;
+	border: none;
+	font-weight: bold;
+	font-size: 1rem;
+	margin-top: 2rem;
+	cursor: pointer;
+}
+
+.btn:hover {
+	border: 1px solid white;
+}
